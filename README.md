@@ -16,9 +16,10 @@
 About me
 {
   "Intro":[
-    "I am a security researcher",
-    "Hacker | HackTheBox",
-    "I love Automating stuff",
+    "I am a Security Researcher who loves automating stuff",
+    "Web Pentesting",
+    "Web dev",
+    "Im not spiderman. We are talking about the internet".
   ],
   "currently_learning":[
     "Advanced Web Exploitation",
