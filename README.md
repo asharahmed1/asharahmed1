@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300A3FF&size=32&center=true&vCenter=true&width=600&lines=AI+%7C+Cybersecurity+%7C+Automation+%7C+Entrepreneur" alt="skills" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300A3FF&size=32&center=true&vCenter=true&width=1600&lines=AI+%7C+Cybersecurity+%7C+Automation+%7C+Entrepreneur" alt="skills" />
 </p>
 
 <div align="center">
